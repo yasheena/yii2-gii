@@ -26,7 +26,7 @@ or add
 "yasheena/yii2-gii": "*"
 ```
 
-to the require section of your `composer.json` file.
+to the require-dev section of your `composer.json` file.
 
 
 Usage
