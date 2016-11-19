@@ -1,0 +1,78 @@
+
+.coltab {
+    border: 1px solid gray;
+    width: -moz-max-content;
+}
+
+.coltab td,th {
+    border: 1px solid gray;
+    padding: 10px 10px 0px 10px;
+}
+
+.col_order {
+    width: 80px;
+}
+
+.col_name {
+}
+
+.col_visible {
+    width: 120px;
+}
+
+.col_align {
+    width: 110px;
+}
+
+.col_replace {
+}
+
+.col_width {
+    width: 95px;
+}
+
+.col_format {
+    width: 135px;
+}
+
+.col_search {
+    width: 105px;
+}
+
+.col_label {
+}
+
+.container {
+    margin-left: 0px !important;
+}
+
+.btn_label {
+}
+
+.btn_url {
+	width: 350px;
+}
+
+.btn_icon {
+}
+
+.btn_icon_pic {
+    width: 35px;	
+}
+
+.btn_hint {
+	width: 500px;
+}
+
+.glyphicon {
+    display: block !important;
+}
+
+.field-generator-viewpath .generator-loadview {
+	float: left;
+}
+
+.field-generator-basecontrollerclass {
+	clear: left;
+}
+.

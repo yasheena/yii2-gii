@@ -1,0 +1,22 @@
+{
+    "name": "yasheena/yii2-gii",
+    "description": "This is a CRUD generator for the framework YII2, which is highly configurable and allows reusing the generator till final version.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","gii","generator"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wolfgang Mattis",
+            "email": "git@gedankenspieler.de"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "yasheena/view": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yasheena\\gii\\": ""
+        }
+    }
+}
