@@ -12,7 +12,11 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "yasheena/yii2-view": "*"
+        "yasheena/yii2-view": "*",
+        "kartik-v/yii2-grid": "*",
+        "kartik-v/yii2-dynagrid": "*",
+        "kartik-v/yii2-mpdf": "*",
+        "kartik-v/yii2-detail-view": "*"
     },
     "autoload": {
         "psr-4": {
