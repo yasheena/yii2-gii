@@ -20,6 +20,6 @@
         }
     },
     "extra": {
-        "bootstrap": "yasheena\\yii2-gii\\Bootstrap"
+        "bootstrap": "yasheena\\gii\\Bootstrap"
     }   
 }
