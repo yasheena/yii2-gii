@@ -18,6 +18,9 @@
         "kartik-v/yii2-mpdf": "*",
         "kartik-v/yii2-detail-view": "*"
     },
+    "require-dev": {
+        "yiisoft/yii2-gii": "*"
+    },
     "autoload": {
         "psr-4": {
             "yasheena\\gii\\": ""
