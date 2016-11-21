@@ -18,5 +18,8 @@
         "psr-4": {
             "yasheena\\gii\\": ""
         }
-    }
+    },
+    "extra": {
+        "bootstrap": "yasheena\\yii2-gii\\Bootstrap"
+    }   
 }
