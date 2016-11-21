@@ -1,3 +1,5 @@
+This is still a development version! Please wait for a beta release!
+
 CRUD Generator for repeated use
 ===============================
 
